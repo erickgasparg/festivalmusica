@@ -1,3 +1,7 @@
+$fuente_principal : "Montserrat", sans-serif;
+
 body {
-    background-color: lightskyblue;
+    font-family: $fuente_principal;
+    font-optical-sizing: auto;
+    font-style: normal;
 }
