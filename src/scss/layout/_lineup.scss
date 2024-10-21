@@ -19,3 +19,12 @@
         @include m.grid(2);
     }
 }
+.escenario {
+    padding-top: 2rem;
+    .nombre-escenario {
+        font-size: 3rem;
+        font-weight: 900;
+        text-transform: uppercase;
+        text-align: center;
+    }
+}
